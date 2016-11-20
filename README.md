@@ -1,2 +1,4 @@
  # Fast CAmpus
-fast campus programmin
+fast campus programmi
+
+I'm the CEO of Team AMADO
