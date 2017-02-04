@@ -1,0 +1,4 @@
+echo "Activate blog virtualenv"
+
+pyenv activate blog
+
